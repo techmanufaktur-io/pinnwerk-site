@@ -5,7 +5,7 @@
 - App Store: APPSTORE_URL
 - Website: https://techmanufaktur-io.github.io/pinnwerk-site/ · Presse-Kit: https://techmanufaktur-io.github.io/pinnwerk-site/presskit/
 - Kontakt: Daniel Pudelko · hello@techmanufaktur.de
-- Preis: kostenlos, „Pinnwerk Pro“ einmalig 6,99 € (Startpreis 4,99 €), kein Abo
+- Preis: kostenlos, „Pinnwerk Pro“ einmalig 5,99 €, kein Abo
 - Plattform: iOS 26 / iPadOS 26 · Sprachen: Deutsch, Englisch, Französisch, Spanisch, Italienisch, Portugiesisch (BR), Niederländisch, Japanisch, Chinesisch (vereinfacht), Koreanisch
 - Entwickler: Techmanufaktur (Pudelko Beteiligungs GmbH), Paderborn
 
