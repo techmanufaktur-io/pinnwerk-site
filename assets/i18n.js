@@ -676,7 +676,7 @@
   };
 
   // App-Store-Link nach der Freigabe eintragen – dann wird aus „Bald im App Store“ der Download-Button.
-  const APP_STORE_URL = "";
+  const APP_STORE_URL = "https://apps.apple.com/app/id6821947895";
 
   const LANGS = { en: "English", de: "Deutsch", fr: "Français", es: "Español", it: "Italiano", pt: "Português", nl: "Nederlands", ja: "日本語", zh: "简体中文", ko: "한국어" };
   const SUPPORTED = Object.keys(LANGS);

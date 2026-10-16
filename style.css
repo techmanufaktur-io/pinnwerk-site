@@ -1,5 +1,5 @@
 :root{--bg1:#2a1f2b;--bg2:#141a2a;--ink:#f3eee9;--muted:#b9b0b6;--accent:#d9774a;--card:rgba(255,255,255,.06);--line:rgba(255,255,255,.12)}
-*{box-sizing:border-box}html{scroll-behavior:smooth}
+*{box-sizing:border-box}html{scroll-behavior:smooth;background:#141a2a;color-scheme:dark}
 body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Arial,sans-serif;color:var(--ink);background:linear-gradient(160deg,var(--bg1),var(--bg2) 70%);min-height:100vh;line-height:1.55}
 a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
 .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
